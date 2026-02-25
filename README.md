@@ -1,6 +1,6 @@
 # ✈️ Global Flight Tracking Data Pipeline: Real-Time Lakehouse Architecture
 
-[Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](images/dashboard.png)
 
 
 ## 📌 Descripción del Proyecto
